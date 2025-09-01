@@ -1,0 +1,6 @@
+streamlit==1.49.0
+pandas==2.2.2
+yfinance==0.2.65
+matplotlib==3.9.2
+requests==2.32.3
+lxml==5.3.0
